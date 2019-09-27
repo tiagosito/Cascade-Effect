@@ -1,8 +1,10 @@
 name: cascade_effect
 description: A new Flutter package project.
 version: 0.0.1
-author:
-homepage:
+author: Tiagosito <tiagosito@gmail.com>
+homepage: https://github.com/tiagosito/
+git: https://github.com/tiagosito/Cascade-Effect
+repository: https://github.com/tiagosito/Cascade-Effect
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
